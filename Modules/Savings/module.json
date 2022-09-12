@@ -1,0 +1,13 @@
+{
+    "name": "Savings",
+    "alias": "savings",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Savings\\Providers\\SavingsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

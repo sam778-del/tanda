@@ -1,0 +1,12 @@
+{
+    "Merchant": true,
+    "Admin": true,
+    "Loan": true,
+    "Investment": true,
+    "BillPayment": true,
+    "Savings": true,
+    "Wallet": true,
+    "Circle": true,
+    "Bills": true,
+    "Blog": true
+}
